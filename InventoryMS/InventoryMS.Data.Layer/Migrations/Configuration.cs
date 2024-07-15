@@ -12,6 +12,7 @@ namespace InventoryMS.Data.Layer.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
+            AutomaticMigrationDataLossAllowed = true;
             ContextKey = "InventoryMS.Data.Layer.AppDbContext";
             CommandTimeout = 0;
         }

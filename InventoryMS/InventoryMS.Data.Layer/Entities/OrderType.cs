@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,6 +9,7 @@ namespace InventoryMS.Data.Layer.Entities
 {
     public class OrderType
     {
+        [Key]
         public int Id { get; set; }
 
         public OrderTypeCode Code { get; set; }
@@ -16,7 +18,19 @@ namespace InventoryMS.Data.Layer.Entities
 
         public bool isIn { get; set; }
 
-        public byte Sign { get; set; }  
+        public byte Sign { get; set; }
+
+        public int? CreatorId { get; set; }
+
+        public virtual User Creator { get; set; }
+
+        public DateTime Created { get; set; }
+
+        public int? ModifierId { get; set; }
+
+        public virtual User Modifier { get; set; }
+
+        public DateTime Modified { get; set; }
 
         public ICollection<Order> Orders { get; set; }
     }

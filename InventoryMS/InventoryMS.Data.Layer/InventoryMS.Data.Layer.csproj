@@ -54,13 +54,14 @@
     <Compile Include="AppDbContext.cs" />
     <Compile Include="Entities\Deposit.cs" />
     <Compile Include="Entities\Order.cs" />
-    <Compile Include="Entities\OrderItems.cs" />
+    <Compile Include="Entities\OrderItem.cs" />
     <Compile Include="Entities\OrderType.cs" />
     <Compile Include="Entities\Product.cs" />
     <Compile Include="Entities\ProductCategory.cs" />
     <Compile Include="Entities\Tier.cs" />
     <Compile Include="Entities\Transaction.cs" />
     <Compile Include="Entities\TransactionType.cs" />
+    <Compile Include="Entities\User.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

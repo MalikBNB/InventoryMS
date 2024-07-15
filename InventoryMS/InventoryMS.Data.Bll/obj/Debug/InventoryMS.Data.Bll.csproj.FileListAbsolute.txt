@@ -1,0 +1,15 @@
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\bin\Debug\InventoryMS.Data.Bll.dll.config
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\bin\Debug\InventoryMS.Data.Bll.dll
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\bin\Debug\InventoryMS.Data.Bll.pdb
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\bin\Debug\EntityFramework.dll
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\bin\Debug\InventoryMS.Data.Layer.dll
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\bin\Debug\InventoryMS.Data.Layer.pdb
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\bin\Debug\InventoryMS.Data.Layer.dll.config
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\bin\Debug\EntityFramework.xml
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\obj\Debug\InventoryMS.Data.Bll.csproj.AssemblyReference.cache
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\obj\Debug\InventoryMS.Data.Bll.csproj.CoreCompileInputs.cache
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\obj\Debug\Inventor.1F00C9D8.Up2Date
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\obj\Debug\InventoryMS.Data.Bll.dll
+D:\MyProjects\InventoryMS\InventoryMS\InventoryMS.Data.Bll\obj\Debug\InventoryMS.Data.Bll.pdb
