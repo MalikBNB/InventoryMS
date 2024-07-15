@@ -9,6 +9,6 @@ namespace InventoryMS.Data.Bll
 {
     public class SharedBll 
     {
-        public AppDbContext Db;
+        public static AppDbContext Db;
     }
 }

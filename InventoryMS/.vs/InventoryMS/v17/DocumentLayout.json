@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\MyProjects\\InventoryMS\\InventoryMS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C475C315-11F3-453B-B4B0-36C0380ED311}|InventoryMS.Data.Bll\\InventoryMS.Data.Bll.csproj|d:\\myprojects\\inventoryms\\inventoryms\\inventoryms.data.bll\\entities\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C475C315-11F3-453B-B4B0-36C0380ED311}|InventoryMS.Data.Bll\\InventoryMS.Data.Bll.csproj|solutionrelative:inventoryms.data.bll\\entities\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F0566C-C2C9-4256-96F4-ED42FD9998FB}|InventoryMS.Data.Layer\\InventoryMS.Data.Layer.csproj|d:\\myprojects\\inventoryms\\inventoryms\\inventoryms.data.layer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F0566C-C2C9-4256-96F4-ED42FD9998FB}|InventoryMS.Data.Layer\\InventoryMS.Data.Layer.csproj|solutionrelative:inventoryms.data.layer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F0566C-C2C9-4256-96F4-ED42FD9998FB}|InventoryMS.Data.Layer\\InventoryMS.Data.Layer.csproj|d:\\myprojects\\inventoryms\\inventoryms\\inventoryms.data.layer\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F0566C-C2C9-4256-96F4-ED42FD9998FB}|InventoryMS.Data.Layer\\InventoryMS.Data.Layer.csproj|solutionrelative:inventoryms.data.layer\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F0566C-C2C9-4256-96F4-ED42FD9998FB}|InventoryMS.Data.Layer\\InventoryMS.Data.Layer.csproj|d:\\myprojects\\inventoryms\\inventoryms\\inventoryms.data.layer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F0566C-C2C9-4256-96F4-ED42FD9998FB}|InventoryMS.Data.Layer\\InventoryMS.Data.Layer.csproj|solutionrelative:inventoryms.data.layer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F0566C-C2C9-4256-96F4-ED42FD9998FB}|InventoryMS.Data.Layer\\InventoryMS.Data.Layer.csproj|d:\\myprojects\\inventoryms\\inventoryms\\inventoryms.data.layer\\entities\\tier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F0566C-C2C9-4256-96F4-ED42FD9998FB}|InventoryMS.Data.Layer\\InventoryMS.Data.Layer.csproj|solutionrelative:inventoryms.data.layer\\entities\\tier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F0566C-C2C9-4256-96F4-ED42FD9998FB}|InventoryMS.Data.Layer\\InventoryMS.Data.Layer.csproj|d:\\myprojects\\inventoryms\\inventoryms\\inventoryms.data.layer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F0566C-C2C9-4256-96F4-ED42FD9998FB}|InventoryMS.Data.Layer\\InventoryMS.Data.Layer.csproj|solutionrelative:inventoryms.data.layer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Layer\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "InventoryMS.Data.Layer\\Entities\\Order.cs",
+              "ToolTip": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Layer\\Entities\\Order.cs",
+              "RelativeToolTip": "InventoryMS.Data.Layer\\Entities\\Order.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:23:46.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Layer\\Entities\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "InventoryMS.Data.Layer\\Entities\\ProductCategory.cs",
+              "ToolTip": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Layer\\Entities\\ProductCategory.cs",
+              "RelativeToolTip": "InventoryMS.Data.Layer\\Entities\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:09:26.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tier.cs",
+              "DocumentMoniker": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Layer\\Entities\\Tier.cs",
+              "RelativeDocumentMoniker": "InventoryMS.Data.Layer\\Entities\\Tier.cs",
+              "ToolTip": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Layer\\Entities\\Tier.cs",
+              "RelativeToolTip": "InventoryMS.Data.Layer\\Entities\\Tier.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:59:34.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Layer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "InventoryMS.Data.Layer\\Entities\\User.cs",
+              "ToolTip": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Layer\\Entities\\User.cs",
+              "RelativeToolTip": "InventoryMS.Data.Layer\\Entities\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:47:54.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Layer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryMS.Data.Layer\\AppDbContext.cs",
+              "ToolTip": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Layer\\AppDbContext.cs",
+              "RelativeToolTip": "InventoryMS.Data.Layer\\AppDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:36:17.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserBll.cs",
+              "DocumentMoniker": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Bll\\Entities\\UserBll.cs",
+              "RelativeDocumentMoniker": "InventoryMS.Data.Bll\\Entities\\UserBll.cs",
+              "ToolTip": "D:\\MyProjects\\InventoryMS\\InventoryMS\\InventoryMS.Data.Bll\\Entities\\UserBll.cs",
+              "RelativeToolTip": "InventoryMS.Data.Bll\\Entities\\UserBll.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:34:41.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

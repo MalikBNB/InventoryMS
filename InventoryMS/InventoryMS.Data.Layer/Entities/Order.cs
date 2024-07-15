@@ -22,7 +22,7 @@ namespace InventoryMS.Data.Layer.Entities
 
         public virtual OrderType OrderType { get; set; }
 
-        public DateTime OrderDate { get; set; }
+        public DateTime Date { get; set; }
 
         public decimal Total_HT { get; set; }    
 

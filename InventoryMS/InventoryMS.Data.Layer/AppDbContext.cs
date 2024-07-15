@@ -44,6 +44,8 @@ namespace InventoryMS.Data.Layer
 
         public DbSet<TransactionType> TransactionTypes { get; set; }
 
+        public DbSet<User> Users { get; set; }
+
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
