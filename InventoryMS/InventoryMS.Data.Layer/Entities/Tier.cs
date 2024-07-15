@@ -57,7 +57,7 @@ namespace InventoryMS.Data.Layer.Entities
 
     public enum TierType
     {
-        Client,
-        Supplier
+        Client = 1,
+        Supplier = 2
     }
 }

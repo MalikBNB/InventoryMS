@@ -51,6 +51,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\CategoryBll.cs" />
+    <Compile Include="Entities\DepositBll.cs" />
+    <Compile Include="Entities\OrderBll.cs" />
+    <Compile Include="Entities\OrderItemBll.cs" />
+    <Compile Include="Entities\OrderTypeBll.cs" />
+    <Compile Include="Entities\ProductBll.cs" />
+    <Compile Include="Entities\TierBll.cs" />
+    <Compile Include="Entities\TransactionBll.cs" />
+    <Compile Include="Entities\TransactionTypeBll.cs" />
+    <Compile Include="Entities\UserBll.cs" />
     <Compile Include="SharedBll.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
